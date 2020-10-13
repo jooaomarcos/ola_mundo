@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Primeiro repositório do curso de git e gitub
+ Primeiro repositório do **Curso de git e gitub**
